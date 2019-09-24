@@ -1,6 +1,6 @@
 # Database Session
 ## Infrastructure setup:
-Please refer to steps mentioned at https://github.com/rautsubh/DbSession/blob/master/Infrastructure.md
+Please refer to steps mentioned at https://github.com/muhamhossain/APRADBSession/blob/master/Infrastructure.md
 
 ## Infrastructure components
 Once the Cloudformation Stack completes successfully would launch following components
