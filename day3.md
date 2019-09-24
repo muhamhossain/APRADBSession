@@ -3,7 +3,7 @@
 ## 1A. SQLServer to Postgres dms task challenge
 1. Make sure we have taken care of prerequisites for the EC2 SQLServer to use as CDC source with replication https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.SQLServer.html
 2. For source EC2 SQL Server rdp (remote desktop) using login **\administrator** and password **pAsswOrd12**
-3. Run PSQL script on target aurora postgres cluster as mentioned in next section:
+3. Run PSQL script on target aurora postgres cluster as mentioned in next section:(SQLServer to Postgres dms task...)
 2. Open **AWS DMS Console** by clicking on link https://console.aws.amazon.com/dms/v2/home?region=us-east-1
 3. Open **Database migration tasks**.
 4. Click on **Create task** from right top corner.
