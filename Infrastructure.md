@@ -28,4 +28,4 @@
 21. Lastly click on **Create Stack**.
 
 # Stack Output
-![Stack Output](https://github.com/rautsubh/DbSession/blob/master/stackOutput.png)
+![Stack Output](https://github.com/muhamhossain/DbSession/blob/master/stackOutput.png)
