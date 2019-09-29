@@ -7,7 +7,7 @@
 4. Create Key pair
     1. Give a name
     2. Save the pem file as generated which would be required later to SSH to ec2 client.
-5. Open link https://github.com/muhamhossain/APRADBSession/blob/master/DBSession.jSON in a new window and copy the raw JSON
+5. Open link https://github.com/muhamhossain/APRADBSession/blob/master/DBSession.jSON in a new window -> Click on the Raw -> Copy the content; and then
 6. Open a text editor and paste the JSON contents and save file as *DBSession.json* locally.
 7. Open Cloudformation console https://console.aws.amazon.com/cloudformation/home?region=us-east-1
 8. Click on **Create Stack**
