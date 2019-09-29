@@ -27,7 +27,6 @@ total 44
 -rwxr-xr-x 1 root root   122 May 15 04:45 aupsqlrb.sh
 -rwxr-xr-x 1 root root   119 May 15 04:45 aupsqlw.sh
 -rwxr-xr-x 1 root root    84 May 15 04:45 mssqlb.sh
--rwxr-xr-x 1 root root   276 May 15 04:45 oracleb.sh
 ```
 
 you can run this sh files to connect to different instances
@@ -51,4 +50,3 @@ master>
 1. aupsqlrb.sh: this will connect to Aurora Postgres Cluster reader endpoint.
 2. aupsqlw.sh: this will connect to Aurora Postgres Cluster writer endpoint.
 3. mssqlb.sh: this will connect to SQL Server instance.
-4. oracleb.sh: this will connect to Oracle Instance.
