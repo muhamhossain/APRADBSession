@@ -15,7 +15,7 @@
     4. Lastly click on **Create**.
 
 # Endpoints
-Based on your interest you can work on a *Oracle to Aurora Postgres* Or a *SQL Server to Aurora Postgres* migration.
+Fro *SQL Server to Aurora Postgres* migration.
 
 ## SQL Server
 1. Open **AWS DMS Console** by clicking on link https://console.aws.amazon.com/dms/v2/home?region=us-east-1
