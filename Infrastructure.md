@@ -1,7 +1,7 @@
 
 # Setup Infrastructure
 
-1. Open **AWS Console** by clicking on link https://console.aws.amazon.com/console/home?region=us-east-1
+1. Open **AWS Console** in a new window (by right-clicking on link) https://console.aws.amazon.com/console/home?region=us-east-1
 2. Under Services open EC2 (under group Compute)
 3. From right side menu open **Key Pairs**
 4. Create Key pair
